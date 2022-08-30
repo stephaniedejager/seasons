@@ -1,5 +1,7 @@
 # Seasons React App
 
+https://stephaniedejager.github.io/seasons/
+
 Display content in browser depending on location and month of year
 
 Geolocation API: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
