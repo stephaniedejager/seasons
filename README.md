@@ -6,6 +6,12 @@ Display content in browser depending on location and month of year
 
 Geolocation API: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
+file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2014-50-47.png
+
+file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2014-51-52.png![image](https://user-images.githubusercontent.com/68548733/187443164-a6be2d3a-7240-4686-a4cc-16f99d8ace6b.png)
+
+file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2015-00-38.png![Uploading image.png…]()
+
 Focused on learning about the React State System and The Component Lifecycle
 
 Learned how to 1) initialize a state - either inside the constructor or not 
