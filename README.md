@@ -6,11 +6,11 @@ Display content in browser depending on location and month of year
 
 Geolocation API: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
-file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2014-50-47.png
+file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2015-02-39.png![image](https://user-images.githubusercontent.com/68548733/187443632-c8b6192b-ee4c-45ec-ab9f-ae84fa194a75.png)
+
+file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2014-51-52.png![image](https://user-images.githubusercontent.com/68548733/187443437-5f034cd0-6949-425c-bc2a-7906b0e628bf.png)
 
 file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2014-51-52.png![image](https://user-images.githubusercontent.com/68548733/187443164-a6be2d3a-7240-4686-a4cc-16f99d8ace6b.png)
-
-file:///home/stephanie/Pictures/Screenshots/Screenshot%20from%202022-08-30%2015-00-38.png![Uploading image.png…]()
 
 Focused on learning about the React State System and The Component Lifecycle
 
